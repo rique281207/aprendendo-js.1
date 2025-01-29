@@ -1,2 +1,2 @@
 # projeto-1
-aprendendo js
+aprendendo.js
